@@ -1,6 +1,7 @@
 DEBUG=0
 SECRET_KEY=django-insecure-c4-yg((i)9!9oa3jlhs#*3f8)mcz$ywqdmd^m@xw-*0kcrpx@)
 DJANGO_ALLOWED_HOSTS=*
+CSRF_TRUSTED_ORIGINS="http://yoursite.com"
 
 SQL_ENGINE=django.db.backends.postgresql
 SQL_DATABASE=test_project
