@@ -31,4 +31,4 @@ This project is a basic setup of:
 1. Start the containers: `docker-compose up -d`
 2. Stop the containers: `docker-compose stop`
 3. Remove the containers: `docker-compose down`
-4. View logs: `docker logs base-django-celery-traefik-web-1  -f --tail 500 --follow
+4. View logs: `docker logs base-django-celery-traefik-web-1  -f --tail 500 --follow`
